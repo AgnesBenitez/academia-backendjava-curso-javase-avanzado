@@ -10,4 +10,5 @@ Repositorio con las practicas de java avanzado
 ## Contenido
 
 El contenido de este curso concluye con la generacion de un proyecto integrador de catalogo de contenidos digitales.En este proyecto se trabajan con diferentes tecnologias y topicos avanzados .
+Use interfaces avanzadas para la implementacion de los metodos en los diferentes modulos del programa ,este trabajo se realizo modularizado ,tambien se aplican las clases abtractas,clases anidadas,collectios y manejo de errores con try y catch
  
